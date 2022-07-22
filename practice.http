@@ -1,1 +1,1 @@
-GET https://data.sfgov.org/resource/jjew-r69b.json
+GET https://api.wordnik.com/v4/word.json/car/definitions?limit=200&includeRelated=false&useCanonical=false&includeTags=false&api_key=YOURAPIKEY
